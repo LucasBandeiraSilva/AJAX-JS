@@ -1,0 +1,29 @@
+{
+    "informacoes_pessoais": {
+      "nome": "Seu Nome",
+      "email": "seu@email.com",
+      "telefone": "(11) 1234-5678"
+    },
+    "experiencia_profissional": [
+      {
+        "cargo": "Desenvolvedor Web",
+        "empresa": "Empresa A",
+        "periodo": "Jan 2020 - Dez 2022"
+      },
+      {
+        "cargo": "Analista de Dados",
+        "empresa": "Empresa B",
+        "periodo": "Fev 2018 - Dez 2019"
+      }
+    ],
+    "formacao_academica": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "Universidade X",
+        "periodo": "2014 - 2018"
+      }
+    ],
+    "conhecimentos": ["JavaScript", "HTML", "CSS", "Java"],
+    "idiomas": ["Inglês", "Espanhol"]
+  }
+  
